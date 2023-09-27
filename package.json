@@ -1,0 +1,9 @@
+{
+  "name": "@lucaslab/qr-scanner",
+  "version": "1.0.0",
+  "description": "QR code scanner",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Lucas Silva",
+  "license": "ISC"
+}
